@@ -19,11 +19,11 @@ Python, pandas, NumPy, Matplotlib y Seaborn. El análisis del notebook es **expl
 
 ## Cómo ejecutarlo
 1. Instala Python 3.10+ y las dependencias: `pip install -r requirements.txt`.
-2. Abre `spotify_eda.ipynb` en JupyterLab, VS Code o Google Colab.
+2. Abre `GRUPO 7 - SPOTIFY Final.ipynb` en JupyterLab, VS Code o Google Colab.
 3. Mantén el CSV en la misma carpeta y ejecuta todas las celdas en orden.
 
 ## Archivos
-- `spotify_eda.ipynb`: análisis y visualizaciones.
+- `GRUPO 7 - SPOTIFY Final.ipynb`: análisis y visualizaciones.
 - `spotify-tracks-dataset-detailed.csv`: datos originales (revisar licencia antes de publicar).
 - `requirements.txt`: dependencias.
 
